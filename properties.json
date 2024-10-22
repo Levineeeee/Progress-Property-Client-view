@@ -1,0 +1,787 @@
+[
+
+  {
+    "address": " Shoreditch N1 - 9 x new build luxury apartments (5 x 1 bed, 3 x 2 bed, 1 x studio)",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "52000",
+    "latlng": {
+      "lat": 51.54462696721446,
+      "lng": -0.28015136718750006
+    }
+  },
+  {
+    "address": " Shoreditch N1 - 9 x new build luxury apartments (5 x 1 bed, 3 x 2 bed, 1 x studio)",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "52000",
+    "latlng": {
+      "lat": 51.53907526203596,
+      "lng": -0.10162353515625
+    }
+  },
+  {
+    "address": "Ilford IG3",
+    "beds": "7",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "5500",
+    "latlng": {
+      "lat": 51.55914360956704,
+      "lng": 0.10128021240234376
+    }
+  },
+  {
+    "address": "Hendon NW4 - Self-contained studio with kitchenette",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "1400",
+    "latlng": {
+      "lat": 51.5687476640869,
+      "lng": -0.22178649902343753
+    }
+  },
+  {
+    "address": " Edmonton N9",
+    "beds": "5",
+    "baths": "5",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "5500",
+    "latlng": {
+      "lat": 51.626968786784516,
+      "lng": -0.07450103759765626
+    }
+  },
+  {
+    "address": " Edmonton N9",
+    "beds": "6",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "5700",
+    "latlng": {
+      "lat": 51.62569000377443,
+      "lng": -0.09063720703125001
+    }
+  },
+  {
+    "address": "Enfield EN3",
+    "beds": "4",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "3800",
+    "latlng": {
+      "lat": 51.64667879725782,
+      "lng": -0.07690429687500001
+    }
+  },
+  {
+    "address": "Croydon CR0",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "5300",
+    "latlng": {
+      "lat": 51.371351725537636,
+      "lng": -0.10162353515625
+    }
+  },
+  {
+    "address": "Tooting SW17",
+    "beds": "7",
+    "baths": "7",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "10150",
+    "latlng": {
+      "lat": 51.434106241971826,
+      "lng": -0.1639366149902344
+    }
+  },
+  {
+    "address": " Hertfordshire WD23 ",
+    "beds": "4",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "2900",
+    "latlng": {
+      "lat": 51.646785314579255,
+      "lng": -0.35602569580078125
+    }
+  },
+  {
+    "address": "Edgware HA8 - Self-contained studio with kitchenette",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "1250",
+    "latlng": {
+      "lat": 51.61737703561604,
+      "lng": -0.2777481079101563
+    }
+  },
+  {
+    "address": " Sydenham SE26 - 3 x self- contained studios with kitchenettes",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "3750",
+    "latlng": {
+      "lat": 51.432607991267254,
+      "lng": -0.05939483642578126
+    }
+  },
+  {
+    "address": " Southend-on-Sea SS0",
+    "beds": "6",
+    "baths": "3",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "5000",
+    "latlng": {
+      "lat": 51.53416357363512,
+      "lng": 0.7209777832031251
+    }
+  },
+  {
+    "address": "Brighton BN2 ",
+    "beds": "6",
+    "baths": "2",
+    "reception": "",
+    "hmo": "No",
+    "rent": "5000",
+    "latlng": {
+      "lat": 50.82263785103416,
+      "lng": -0.12187957763671876
+    }
+  },
+
+  {
+    "address": "Soho W1D Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "6000",
+    "latlng": {
+      "lat": 51.51664802308177,
+      "lng": -0.13492584228515628
+    }
+  },
+  {
+    "address": " Basildon SS15",
+    "beds": "5",
+    "baths": "3",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "3500",
+    "latlng": {
+      "lat": 51.578349690178925,
+      "lng": 0.42572021484375
+    }
+  },
+  {
+    "address": "Norwood SE27",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "7400",
+    "latlng": {
+      "lat": 51.417943944757326,
+      "lng": -0.08325576782226564
+    }
+  },
+  {
+    "address": " Streatham SW16  - 11 studios (self contained with kitchenettes)",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "13500",
+    "latlng": {
+      "lat": 51.43057457243138,
+      "lng": -0.13200759887695315
+    }
+  },
+  {
+    "address": "Shoreditch N1 - 9 x new build luxury apartments (5 x 1 bed, 3 x 2 bed, 1 x studio) Serviced Accommodation",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "52000",
+    "latlng": {
+      "lat": 51.53864817973767,
+      "lng": -0.10025024414062501
+    }
+  },
+  {
+    "address": "Holloway N19",
+    "beds": "8",
+    "baths": "8",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "9500",
+    "latlng": {
+      "lat": 51.56543982988344,
+      "lng": -0.1350975036621094
+    }
+  },
+  {
+    "address": "Walton-On-Thames KT12",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "5800",
+    "latlng": {
+      "lat": 51.386352101119385,
+      "lng": -0.41370391845703125
+    }
+  },
+  {
+    "address": "Canning Town E16",
+    "beds": "4",
+    "baths": "2",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "3400",
+    "latlng": {
+      "lat": 51.51216124955517,
+      "lng": 0.017166137695312503
+    }
+  },
+  {
+    "address": "Tottenham N17 ",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "7200",
+    "latlng": {
+      "lat": 51.595628226013176,
+      "lng": -0.06643295288085939
+    }
+  },
+  {
+    "address": "Lewisham SE13",
+    "beds": "6",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "5000",
+    "latlng": {
+      "lat": 51.454434786162615,
+      "lng": -0.008068084716796877
+    }
+  },
+  {
+    "address": "Ilford IG3",
+    "beds": "4",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "3200",
+    "latlng": {
+      "lat": 51.55999738544502,
+      "lng": 0.09063720703125001
+    }
+  },
+  {
+    "address": "South Kensington SW7 Serviced Accommodation",
+    "beds": "2",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "6500",
+    "latlng": {
+      "lat": 51.49613345052725,
+      "lng": -0.17990112304687503
+    }
+  },
+  {
+    "address": "Ilford IG1",
+    "beds": "6",
+    "baths": "3",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "4300",
+    "latlng": {
+      "lat": 51.56725383327963,
+      "lng": 0.05767822265625001
+    }
+  },
+  {
+    "address": "Norwood SE19 Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "1750",
+    "latlng": {
+      "lat": 51.45700195855987,
+      "lng": -0.07759094238281251
+    }
+  },
+  {
+    "address": "Northampton (Kettering) NN16 - 3 x 3 bed, 1 bath, Serviced Accommodation",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "1,350 each (Total Rent: £4,050)",
+    "latlng": {
+      "lat": 52.40912125231122,
+      "lng": -0.7326507568359376
+    }
+  },
+  {
+    "address": "Lewisham SE13",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "7400",
+    "latlng": {
+      "lat": 51.455504458873776,
+      "lng": -0.004119873046875001
+    }
+  },
+
+  {
+    "address": "Chelsea SW3 Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "3500",
+    "latlng": {
+      "lat": 51.485445119088524,
+      "lng": -0.16685485839843753
+    }
+  },
+  {
+    "address": "Bromley BR1",
+    "beds": "6",
+    "baths": "6",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "6500",
+    "latlng": {
+      "lat": 51.409914188821666,
+      "lng": 0.019912719726562503
+    }
+  },
+  {
+    "address": "Mitcham CR4",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "6500",
+    "latlng": {
+      "lat": 51.40820099168391,
+      "lng": -0.16342163085937503
+    }
+  },
+  {
+    "address": "Derby DE22",
+    "beds": "3",
+    "baths": "1",
+    "reception": "",
+    "hmo": "No",
+    "rent": "1150",
+    "latlng": {
+      "lat": 52.93374122040315,
+      "lng": -1.4955139160156252
+    }
+  },
+  {
+    "address": "Whitechapel E1",
+    "beds": "1",
+    "baths": "1",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "3500",
+    "latlng": {
+      "lat": 51.516007082492614,
+      "lng": -0.05905151367187501
+    }
+  },
+  {
+    "address": " Uxbridge UB9 - 6 en-suites",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "6200",
+    "latlng": {
+      "lat": 51.56832086029335,
+      "lng": -0.4993629455566407
+    }
+  },
+  {
+    "address": "Coventry CV1",
+    "beds": "4",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "1700",
+    "latlng": {
+      "lat": 52.41048254848418,
+      "lng": -1.5101051330566408
+    }
+  },
+  {
+    "address": "Greenford UB6 (all en-suites)",
+    "beds": "6",
+    "baths": "6",
+    "reception": "0",
+    "hmo": "Yes",
+    "rent": "7200",
+    "latlng": {
+      "lat": 51.64,
+      "lng": -0.3
+    }
+  },
+  {
+    "address": "Greenford UB6 (all en-suites)",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "7200",
+    "latlng": {
+      "lat": 51.53693981046692,
+      "lng": -0.32958984375000006
+    }
+  },
+  {
+    "address": "Streatham SW16 (all en-suites)",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "7300",
+    "latlng": {
+      "lat": 51.43025349802628,
+      "lng": -0.12599945068359378
+    }
+  },
+  {
+    "address": "Southall UB2 (all en-suites)",
+    "beds": "6",
+    "baths": "6",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "6000",
+    "latlng": {
+      "lat": 51.50147667659363,
+      "lng": -0.380401611328125
+    }
+  },
+  {
+    "address": "Woodford E18",
+    "beds": "7",
+    "baths": "2",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "5500",
+    "latlng": {
+      "lat": 51.59264228212898,
+      "lng": 0.030899047851562503
+    }
+  },
+  {
+    "address": "Colchester (Harwich) CO12 Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "900",
+    "latlng": {
+      "lat": 51.93664541998453,
+      "lng": 1.2648010253906252
+    }
+  },
+  {
+    "address": "Colchester CO1 2 x 4 bed",
+    "beds": "",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "2,100 each",
+    "latlng": {
+      "lat": 51.887511191058756,
+      "lng": 0.9101486206054689
+    }
+  },
+  {
+    "address": "Northampton (Kettering) NN16 - 3 x 2 bed Serviced Accommodation",
+    "beds": "",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "900 each (Total Rent: £2,700)",
+    "latlng": {
+      "lat": 52.408702383497904,
+      "lng": -0.7196044921875001
+    }
+  },
+  {
+    "address": "Maida Vale W9 Serviced Accommodation/ Hotel",
+    "beds": "23",
+    "baths": "23",
+    "reception": "",
+    "hmo": "No",
+    "rent": "50000",
+    "latlng": {
+      "lat": 51.52529983831504,
+      "lng": -0.18925666809082034
+    }
+  },
+  {
+    "address": "Romford RM1",
+    "beds": "6",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "5700",
+    "latlng": {
+      "lat": 51.57898975313372,
+      "lng": 0.18264770507812503
+    }
+  },
+  {
+    "address": "Nottingham NG16",
+    "beds": "5",
+    "baths": "3",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "1750",
+    "latlng": {
+      "lat": 53.014783245859235,
+      "lng": -1.2922668457031252
+    }
+  },
+  {
+    "address": "Forest Gate E7",
+    "beds": "5",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "5000",
+    "latlng": {
+      "lat": 51.5441999370157,
+      "lng": 0.03467559814453126
+    }
+  },
+  {
+    "address": "Greenford UB6 (all en-suites)",
+    "beds": "8",
+    "baths": "8",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "7300",
+    "latlng": {
+      "lat": 51.53320252912544,
+      "lng": -0.3455543518066407
+    }
+  },
+  {
+    "address": "Golders Green NW11 (studio apartment)  Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "1440",
+    "latlng": {
+      "lat": 51.57962980707405,
+      "lng": -0.20565032958984375
+    }
+  },
+  {
+    "address": " Hendon NW4  Self-contained studio with kitchenette Serviced Accommodation",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "1400",
+    "latlng": {
+      "lat": 51.56928116319439,
+      "lng": -0.2209281921386719
+    }
+  },
+  {
+    "address": " Golders Green NW11 (studio apartment)  Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "",
+    "hmo": "No",
+    "rent": "1440",
+    "latlng": {
+      "lat": 51.57984315638427,
+      "lng": -0.20479202270507815
+    }
+  },
+  {
+    "address": "  Edgware HA8 Self-contained studio with kitchenette Serviced Accommodation",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "1250",
+    "latlng": {
+      "lat": 51.618656052919796,
+      "lng": -0.27671813964843756
+    }
+  },
+  {
+    "address": " Paddington (Bayswater) W2 Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "3,500 (all bills included in the rent)",
+    "latlng": {
+      "lat": 51.51429786349477,
+      "lng": -0.1714897155761719
+    }
+  },
+
+  {
+    "address": "",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "",
+    "latlng": {
+      "lat": 51.64,
+      "lng": -0.3
+    }
+  },
+  {
+    "address": "Upton Park E13 Serviced Accommodation",
+    "beds": "1",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "1600",
+    "latlng": {
+      "lat": 51.52967852566193,
+      "lng": 0.0254058837890625
+    }
+  },
+  {
+    "address": "Rainham RM13",
+    "beds": "4",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "Yes",
+    "rent": "3300",
+    "latlng": {
+      "lat": 51.514511519376946,
+      "lng": 0.185394287109375
+    }
+  },
+  {
+    "address": "Highgate N6 Self-contained studio with kitchenett Serviced Accommodation",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "Yes",
+    "rent": "1500",
+    "latlng": {
+      "lat": 51.57365561973001,
+      "lng": -0.15792846679687503
+    }
+  },
+  {
+    "address": "Highgate N6 Self-contained studio with kitchenett Serviced Accommodation",
+    "beds": "",
+    "baths": "",
+    "reception": "",
+    "hmo": "No",
+    "rent": "1500",
+    "latlng": {
+      "lat": 51.572375334560434,
+      "lng": -0.14694213867187503
+    }
+  },
+  {
+    "address": "West Ham E15",
+    "beds": "4",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "3100",
+    "latlng": {
+      "lat": 51.53288217644661,
+      "lng": 0.008926391601562502
+    }
+  },
+  {
+    "address": "West Wickham BR4",
+    "beds": "4",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "3800",
+    "latlng": {
+      "lat": 51.374780816209366,
+      "lng": -0.018196105957031253
+    }
+  },
+  {
+    "address": "Ilford IG3",
+    "beds": "2",
+    "baths": "2",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "2200",
+    "latlng": {
+      "lat": 51.5693878622646,
+      "lng": 0.10368347167968751
+    }
+  },
+  {
+    "address": "Bromley BR1",
+    "beds": "4",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "3300",
+    "latlng": {
+      "lat": 51.40820099168391,
+      "lng": 0.020599365234375003
+    }
+  },
+  {
+    "address": "Ilford IG2 Serviced Accommodation",
+    "beds": "2",
+    "baths": "1",
+    "reception": "1",
+    "hmo": "No",
+    "rent": "2100",
+    "latlng": {
+      "lat": 51.5779229765343,
+      "lng": 0.08033752441406251
+    }
+  }
+
+]
